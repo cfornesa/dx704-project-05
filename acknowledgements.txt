@@ -1,0 +1,15 @@
+If you discussed this assignment with anyone, please acknowledge them here.
+If you did this assignment completely on your own, simply write none below.
+Answer: none.
+
+If you used any libraries not mentioned in this module's content, please list them with a brief explanation what you used them for. 
+If you did not use any other libraries, simply write none below.
+Answer: none.
+
+If you used any generative AI tools, please add links to your transcripts below, and any other information that you feel is necessary to comply with the generative AI policy. 
+If you did not use any generative AI tools, simply write none below.
+
+For each part, I inserted parts of the prompt into ChatGPT to aid in my understanding and mitigate possible overthinking about the instructions for each part.
+Part 1 conversation link - https://chatgpt.com/share/68dc4d2c-38c0-8000-996f-0647c570626e
+Part 2 conversation link - https://chatgpt.com/share/68dc4f39-1ab8-8000-9f89-f33845181ef8
+Part 3 conversation link - https://chatgpt.com/share/68dc5071-7340-8000-ab09-2500140e75d9
